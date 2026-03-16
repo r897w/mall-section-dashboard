@@ -41,4 +41,4 @@ The Mall Section Dashboard provides a centralized platform where users can brows
 1. Reham Alamri - Restaurants
 2. Alanoud Khalid - Clothing
 3. Layan - Arcade
-4. Rawan Alali - Gym
+4. Rawan Alali 2240006098 - Gym
